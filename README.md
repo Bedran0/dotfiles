@@ -3,6 +3,7 @@
 My personal terminal setup for macOS — featuring Zsh, Oh My Zsh, Powerlevel10k, Neovim, and tmux.
 
 ## 📸 Preview
+![preview](preview.png)
 
 <!-- Screenshot buraya gelecek -->
 
