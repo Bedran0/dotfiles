@@ -1,13 +1,13 @@
-# 🖥️ dotfiles
+# dotfiles
 
 My personal terminal setup for macOS — featuring Zsh, Oh My Zsh, Powerlevel10k, Neovim, and tmux.
 
-## 📸 Preview
+## Preview
 ![preview](preview.png)
 
 <!-- Screenshot buraya gelecek -->
 
-## ✨ What's included
+## What's included
 
 - **Zsh** + Oh My Zsh
 - **Powerlevel10k** — prompt theme
@@ -18,7 +18,7 @@ My personal terminal setup for macOS — featuring Zsh, Oh My Zsh, Powerlevel10k
 - **tmux** — terminal multiplexer (auto-starts on launch)
 - **fastfetch** — system info display
 
-## 📁 File locations
+## File locations
 
 | File | Location |
 |------|----------|
@@ -26,7 +26,7 @@ My personal terminal setup for macOS — featuring Zsh, Oh My Zsh, Powerlevel10k
 | `.p10k.zsh` | `~/.p10k.zsh` |
 | `nvim/init.lua` | `~/.config/nvim/init.lua` |
 
-## 🚀 Installation
+## Installation
 
 ### 1. Clone the repo
 \```bash
